@@ -1,0 +1,27 @@
+{
+  "name": "testrail_integration_scripts",
+  "version": "1.0.0",
+  "description": "Integrate cucumber test results with testrail",
+  "main": "index.js",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "cucumber-html-reporter": "^4.0.5",
+    "json5": "^2.1.3",
+    "jsonfile": "^5.0.0",
+    "minimist": "^1.2.5",
+    "minimist-options": "^4.0.2",
+    "moment": "^2.24.0",
+    "path": "^0.12.7",
+    "testrail-api": "^1.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "testrail",
+    "cucumber"
+  ],
+  "author": "hendryang91@gmail.com",
+  "license": "ISC"
+}
